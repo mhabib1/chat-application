@@ -5,3 +5,5 @@ As I go further I will link the stuffs that I am using to create this project.
 
 Created new folder called "application" where the chat application will be installed.
 To create the react App I have used the following command: create-react-app ./
+
+After creating the react application, delete the default src files, created new application.
