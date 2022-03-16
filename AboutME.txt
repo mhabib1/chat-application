@@ -1,1 +1,4 @@
-This is a test txt for learning how to use GitHub.
+This is a Chat application where users can have peer 2 peer chats.
+
+In this application I will be using React to create Chat application.
+As I go further I will link the stuffs that I am using to create this project.
