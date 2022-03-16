@@ -2,3 +2,6 @@ This is a Chat application where users can have peer 2 peer chats.
 
 In this application I will be using React to create Chat application.
 As I go further I will link the stuffs that I am using to create this project.
+
+Created new folder called "application" where the chat application will be installed.
+To create the react App I have used the following command: create-react-app ./
