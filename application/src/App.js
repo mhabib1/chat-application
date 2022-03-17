@@ -1,9 +1,9 @@
-import {ChatEngine} from 'react-chat-engine';
+import React from 'react';
+import { ChatEngine } from 'react-chat-engine';
 import './App.css'
 
-export const App = () => {
-    return
-    (
+const App = () => {
+    return(
         //ChatEngine is a component
         <ChatEngine
             //here we are going to pass all the props
@@ -15,3 +15,4 @@ export const App = () => {
         />
     );
 }
+export default App;
