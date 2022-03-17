@@ -10,3 +10,6 @@ After creating the react application, delete the default src files, created new 
 
 npm i @ant-design/icons >> To install default icons.
 npm react-chat-engine >> To install the chat engine.
+
+Rectified the App.js file, by adding the proper imports
+Created component folder that will include the ChatFeed.jsx that allows us to modified the ChatFeed components. Here goes another commit.
